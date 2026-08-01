@@ -109,20 +109,17 @@ Software Engineering      ████████░░░░░░░
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-kumar14&theme=github_dark" alt="GitHub Profile Summary" />
 
-<br>
+<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveen-kumar14&theme=github_dark" alt="Languages by Repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Naveen-kumar14&theme=github_dark" alt="Top Languages by Repository" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Naveen-kumar14&theme=github_dark" alt="Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveen-kumar14&theme=github_dark&utcOffset=5.5" alt="Productive Time" />
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-kumar14&hide_border=true&theme=transparent" alt="GitHub Streak" />
 
 </div>
-
-
-
 ---
 
 ## `> contribution_snake`
